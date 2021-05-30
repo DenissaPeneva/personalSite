@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(212, 212, 247)
+    }
+hr {
+    border-color: hsl(271, 100%, 27%);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+}
+
+h1 {
+    color: hsl(251, 78%, 23%);
+    
+}
+h3 {
+    text-decoration: underline;
+    color: hsl(271, 77%, 23%);
+}
